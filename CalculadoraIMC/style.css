@@ -1,0 +1,50 @@
+h2{
+    color: #D4D4D2;
+}h1{
+    margin-block-start: 0px; 
+    color: white;
+}
+.resposta{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+input{
+    height: 20px;
+}
+textarea{
+    width: 100%;
+    margin-top: 35px;
+}
+.container{
+    background-color: #160d5a;
+    display: inline-flex;
+    padding: 35px;
+    border-radius: 20px;
+    flex-direction: column;
+    align-items: center;
+    width: 330px;
+    border: solid black 6px;
+    box-shadow: black 10px 10px 5px;
+    margin-top: 10%;
+}
+
+.area{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    height: 40px;
+    width: 100%;
+    background-color: #4c43ff;
+    border: none;
+    color: white;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #07008f;
+    transition: 0.5s;
+}
+
