@@ -51,3 +51,19 @@ button:hover{
     transition: 0.5s;
 }
 
+.perigo{
+    color: rgb(255, 0, 0);
+}
+
+.bom{
+    color: rgb(0, 190, 0);
+}
+
+.medo{
+    color: rgb(133, 133, 0);
+}
+
+.ok{
+    color: rgb(0, 68, 0);
+}
+
