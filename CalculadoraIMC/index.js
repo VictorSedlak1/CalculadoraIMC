@@ -21,5 +21,5 @@ function calculate() {
     resultado="Obesidade Grau 2 (Severa)"
   } else if (imc >= 40)
     resultado="Obesidade Grau 3 (Mórbida)"
-  document.getElementById("resposta").innerHTML= `${nome} Você está ${resultado}`
+  document.getElementById("resposta").innerHTML= `${nome} Você está com ${resultado}`
 }
